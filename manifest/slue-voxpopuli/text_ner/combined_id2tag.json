@@ -1,0 +1,17 @@
+{
+    "0": "B-WHEN",
+    "1": "I-WHEN",
+    "2": "B-NORP",
+    "3": "I-NORP",
+    "4": "B-PERSON",
+    "5": "I-PERSON",
+    "6": "B-PLACE",
+    "7": "I-PLACE",
+    "8": "B-ORG",
+    "9": "I-ORG",
+    "10": "B-LAW",
+    "11": "I-LAW",
+    "12": "B-QUANT",
+    "13": "I-QUANT",
+    "14": "O"
+}

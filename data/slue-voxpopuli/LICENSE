@@ -1,0 +1,5 @@
+SLUE-VoxPopuli Dataset
+
+SLUE-VoxPopuli dataset contains a subset of VoxPopuli dataset and the copyright of this subset remains the same with the original license, CC0. See also European Parliament's legal notice (https://www.europarl.europa.eu/legal-notice/en/)
+
+Additionally, we provide named entity annotation (normalized_ner and raw_ner column in .tsv files) and it is covered with the same license as CC0.
